@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Peedrohenrique
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#Hey 
+Meu nome é Pedro Henrique, sou do Brasil 🇧🇷 Sou Suporte técnico e 
+desenvolvedor front-end desde 2020.
+
+Sou apaixonado por resolver problemas e aprender. Sempre aberto para novos
+desafios e pronto para enfrentar as mudanças.
+
+
 
 <!---
 Peedrohenrique/Peedrohenrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
