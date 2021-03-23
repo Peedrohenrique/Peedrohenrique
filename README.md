@@ -1,10 +1,10 @@
-#Hey 
-Meu nome é Pedro Henrique, sou do Brasil 🇧🇷 Sou Suporte técnico e 
+# Hey 👋
+Meu nome é Pedro Henrique, sou do Brasil Sou Suporte técnico e <br>
 desenvolvedor front-end desde 2020.
-
+<br>
 Sou apaixonado por resolver problemas e aprender. Sempre aberto para novos
 desafios e pronto para enfrentar as mudanças.
-
+<br>
 
 
 <!---
