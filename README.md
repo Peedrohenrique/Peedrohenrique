@@ -17,7 +17,7 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto para novos desaf
 <br>
 ## Reach me out 👇
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ph.saints)](https://www.instagram.com/ph.saints/)
-[![Instagram Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-b09b64206)]
+[![Instagram Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-b09b64206/)
 
 <!-- Badges de Linguagem  --  https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!---
