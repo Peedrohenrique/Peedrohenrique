@@ -12,11 +12,13 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto para novos desaf
 ![Alt Text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Alt Text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <br>
 <br>
 ## Reach me out 👇
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ph.saints)](https://www.instagram.com/ph.saints/)
 
+<!-- Badges de Linguagem  --  https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!---
 Peedrohenrique/Peedrohenrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
