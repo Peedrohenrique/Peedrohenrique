@@ -22,10 +22,12 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto para novos desaf
 <br>
 <br>
 ## Reach me out 👇
+ <div>
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ph.saints)](https://www.instagram.com/ph.saints/)
  
  <a href="https://www.linkedin.com/in/pedro-henrique-b09b64206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+</div>
+ 
 <!-- Badges de Linguagem  --  https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!---
 Peedrohenrique/Peedrohenrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
