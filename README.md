@@ -7,8 +7,8 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto para novos desaf
  
  <div align="center">
   <a href="https://github.com/Peedrohenrique">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Peedrohenrique&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peedrohenrique&layout=compact&langs_count=7&theme=react"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Peedrohenrique&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peedrohenrique&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 ## Skills🚀
@@ -22,11 +22,10 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto para novos desaf
 <br>
 <br>
 ## Reach me out 👇
- <div>
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ph.saints)](https://www.instagram.com/ph.saints/)
- 
- <a href="https://www.linkedin.com/in/pedro-henrique-b09b64206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
+<a href="https://www.linkedin.com/in/pedro-henrique-b09b64206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
  
 <!-- Badges de Linguagem  --  https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!---
