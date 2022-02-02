@@ -4,6 +4,13 @@ Meu nome é Pedro Henrique, Sou desenvolvedor front-end.<br>
 Sou apaixonado por resolver problemas e aprender. Sempre aberto para novos desafios e pronto para enfrentar as mudanças.<br>
 <h4>🌎"𝐐𝐮𝐚𝐧𝐭𝐨 𝐌𝐚𝐢𝐬 𝐞𝐮 𝐬𝐞𝐢, 𝐦𝐚𝐢𝐬 𝐞𝐮 𝐬𝐨𝐮"🧠</h4>
  <br>
+ 
+ 
+ <div align="center">
+  <a href="https://github.com/Peedrohenrique">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peedrohenrique&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peedrohenrique&layout=compact&langs_count=7&theme=react"/>
+</div>
 
 ## Skills🚀
 ![Alt Text](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
