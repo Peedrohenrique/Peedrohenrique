@@ -7,8 +7,8 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto para novos desaf
  
  <div align="center">
   <a href="https://github.com/Peedrohenrique">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Peedrohenrique&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peedrohenrique&layout=compact&langs_count=7&theme=react"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Peedrohenrique&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peedrohenrique&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 ## Skills🚀
