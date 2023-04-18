@@ -23,8 +23,7 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto para novos desaf
 <br>
 ## Reach me out 👇
  <div>
-  <!-- LINK DO INSTAGRAM COM IMAGEM -->
-  <a href="https://www.instagram.com/ph.saints/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
   <!-- LINK DO LINKEDIN COM IMAGEM -->
 <a href="https://www.linkedin.com/in/pedro-henrique-b09b64206/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
