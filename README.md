@@ -1,36 +1,51 @@
-# Hey 👋
-<br>
-Meu nome é Pedro Henrique, Sou desenvolvedor front-end.<br>
-Sou apaixonado por resolver problemas e aprender. Sempre aberto para novos desafios e pronto para enfrentar as mudanças.<br>
-<h4>🌎"𝐐𝐮𝐚𝐧𝐭𝐨 𝐌𝐚𝐢𝐬 𝐞𝐮 𝐬𝐞𝐢, 𝐦𝐚𝐢𝐬 𝐞𝐮 𝐬𝐨𝐮"🧠</h4>
- <br>
- 
- <div align="center">
-  <a href="https://github.com/Peedrohenrique">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Peedrohenrique&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peedrohenrique&layout=compact&langs_count=7&theme=react"/>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67159C&height=120&section=header"/>
 
-## Skills🚀
-![Alt Text](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![Alt Text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Alt Text](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Alt Text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Alt Text](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Alt Text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Alt Text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<br>
-<br>
-## Reach me out 👇
- <div>
+
+<div align="center">
+
+# Hello, my name is Pedro Henrique.
  
-  <!-- LINK DO LINKEDIN COM IMAGEM -->
-<a href="https://www.linkedin.com/in/pedro-henrique-b09b64206/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <p></p>
+ 
+### I'm front-end developer
+<p></p>
+ 
+### welcome to my portfolio.
+
+### Main skills
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+
+
+
+### Tools
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira&labelColor=0D1117)&nbsp;
+
+### Other Knowledge
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
   
- </div>
+### Studying in this moment
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
+
  
-<!-- Badges de Linguagem  --  https://dev.to/envoy_/150-badges-for-github-pnk -->
-<!---
-Peedrohenrique/Peedrohenrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Find me
+<p></p>
+<div align="center">
+<a href="https://www.linkedin.com/in/pedro-henrique-b09b64206/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=0D1117"</a>
+<a href="pedro25henrique@live.com?subject=Queremos te contratar." target="_blank"><img src="https://img.shields.io/badge/-Email.js-red?style=for-the-badge&logo=gmail&labelColor=0D1117"</a>
+<a href="https://wa.me/5585997358507" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp.js-267D39?style=for-the-badge&logo=whatsapp&labelColor=0D1117"</a>
+</div>
+  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Peedrohenrique}/count.svg" /></p> 
+<br></div>
+  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=&color=67159C&height=120&section=footer"/>
