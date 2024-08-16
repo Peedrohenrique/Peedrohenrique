@@ -29,7 +29,7 @@
 ### Other Knowledge
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-0D1117?style=for-the-badge&logo=SASS&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![TAILWINDCSS](https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![SHADCN/UI](https://img.shields.io/badge/shadcn/ui-0D1117?style=for-the-badge&logo=shadcn/ui&logoColor=white)&nbsp;
