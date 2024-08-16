@@ -31,8 +31,10 @@
 ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-0D1117?style=for-the-badge&logo=SASS&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![TAILWINDCSS](https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=0D1117)&nbsp;
+![SHADCN/UI](https://img.shields.io/badge/shadcn/ui-0D1117?style=for-the-badge&logo=shadcn/ui&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Next JS](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&logoColor=0D1117)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
   
 ### Studying in this moment
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
